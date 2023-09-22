@@ -3,7 +3,7 @@ import 'dart:math';
 
 final randomizer = Random();
 
-// Note: Widget Class
+// Note: Widget State Class
 class DiceRoller extends StatefulWidget {
   const DiceRoller({super.key});
   @override
