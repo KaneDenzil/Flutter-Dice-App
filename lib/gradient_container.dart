@@ -16,6 +16,10 @@ class GradientContainer extends StatelessWidget {
       : color1 = Colors.deepPurple,
         color2 = Colors.indigo;
 
+  // const - Compile time Constant and saves memory.
+  // var - Values initialized and Can be changed in future
+  // final - It's like let where values are assigned and cannot be changed.
+
   final Color color1;
   final Color color2;
 
